@@ -18,7 +18,7 @@ Aplicação estática em HTML semântico, CSS e JavaScript Vanilla. A apresenta�
 - Resultado sem julgamento e com aviso de que é apenas aproximação ilustrativa, não avaliação da criança ou família e não determina matrícula.
 - Acessibilidade: rádio em `fieldset` e `legend`, teclado, foco visível, conteúdo atualizado anunciado, contraste, movimento reduzido e adaptação móvel.
 - Sem coleta, armazenamento, cookies, analytics, APIs ou dependências externas de JavaScript. Fontes Google Fonts podem ser carregadas com alternativas locais.
-- `SCHOOL_URL` em `script.js` ainda usa endereço de exemplo (`https://SEU-SITE.webflow.io/#contato`) e precisa receber o contato Webflow definitivo antes da publicação.
+- `SCHOOL_URL` em `script.js` aponta para o contato definitivo do Webflow: `https://raizes----escola-de-educacao-infantil.webflow.io/#contato`.
 
 ## Identidade visual
 
@@ -26,6 +26,6 @@ Cores: verde `#455D36`, verde claro `#8E9B75`, terracota `#CD7956`, amarelo `#E6
 
 ## Publicação pendente
 
-- Configurar `SCHOOL_URL` com a URL definitiva do Webflow.
+- Publicar no GitHub Pages e inserir a URL publicada e capturas no README.
 - Publicar a raiz do repositório no GitHub Pages.
 - Inserir a URL publicada e capturas no README.

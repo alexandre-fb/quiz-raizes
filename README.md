@@ -30,7 +30,7 @@ Cada resposta vale 0, 1 ou 2 pontos. A soma máxima é 6. O percentual é calcul
 - **CSS (`style.css`):** cores e demais tokens visuais, tipografia, espaçamento, formas, estados interativos e regras responsivas.
 - **JavaScript (`script.js`):** perguntas, alternativas e pontuação, URL do contato, navegação, cálculo, faixas e texto personalizado do resultado.
 
-Para trocar o destino do botão de contato, edite `SCHOOL_URL` no início de `script.js` para a URL institucional do Webflow, incluindo a âncora desejada, por exemplo `https://seu-site.webflow.io/#contato`. Respostas e percentuais não são enviados pela URL.
+O botão de contato aponta para `https://raizes----escola-de-educacao-infantil.webflow.io/#contato`. Para alterar o destino, edite `SCHOOL_URL` no início de `script.js`. Respostas e percentuais não são enviados pela URL.
 
 ## Executar localmente
 

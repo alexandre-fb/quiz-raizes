@@ -1,4 +1,4 @@
-const SCHOOL_URL = 'https://SEU-SITE.webflow.io/#contato';
+const SCHOOL_URL = 'https://raizes----escola-de-educacao-infantil.webflow.io/#contato';
 
 const questions = [
   {

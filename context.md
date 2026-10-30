@@ -6,7 +6,7 @@ Quiz autônomo para a Raízes — escola fictícia de educação infantil. O sit
 
 ## Estado atual
 
-Aplicação estática em HTML semântico, CSS e JavaScript Vanilla. A apresentação, as três perguntas e o resultado usam agora o logotipo institucional incluído em `logo-raizes.png`. A imagem tem fundo transparente e é redimensionada por CSS para os cabeçalhos e para a tela inicial.
+Aplicação estática em HTML semântico, CSS e JavaScript Vanilla. A apresentação, as três perguntas e o resultado usam o logotipo institucional em `assets/logo-raizes.png`. A imagem tem fundo transparente e é redimensionada por CSS para os cabeçalhos e para a tela inicial. O favicon está em `assets/favico.png`.
 
 ## Escopo e comportamento
 
@@ -22,7 +22,7 @@ Aplicação estática em HTML semântico, CSS e JavaScript Vanilla. A apresenta�
 
 ## Identidade visual
 
-Cores: verde `#455D36`, verde claro `#8E9B75`, terracota `#CD7956`, amarelo `#E6B351`, creme `#F9F5EC`, fundo suave `#EDF0E5`, branco `#FFFFFF`, texto secundário `#59624F` e borda `#E3E7DC`. Títulos Nunito, textos DM Sans. O logotipo Raízes está em `logo-raizes.png`.
+Cores: verde `#455D36`, verde claro `#8E9B75`, terracota `#CD7956`, amarelo `#E6B351`, creme `#F9F5EC`, fundo suave `#EDF0E5`, branco `#FFFFFF`, texto secundário `#59624F` e borda `#E3E7DC`. Títulos Nunito, textos DM Sans. O logotipo e o favicon ficam em `assets/`.
 
 ## Publicação pendente
 
